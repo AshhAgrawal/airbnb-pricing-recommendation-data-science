@@ -7,6 +7,10 @@ data/*.csv
 data/*.csv.gz
 data/*.geojson
 
+# Large data files
+data/*.csv
+data/*.csv.gz
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
