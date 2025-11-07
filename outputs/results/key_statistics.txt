@@ -1,0 +1,36 @@
+AIRBNB PRICING OPTIMIZATION - KEY STATISTICS
+================================================================================
+
+Data Statistics:
+   Original Dataset Size: 36111
+   After Filtering: 644
+   Test Set Size: 129
+   Number of Features: 15
+   Target Neighborhoods: Williamsburg, Upper East Side, Astoria
+
+Price Statistics:
+   Mean Price: $232.96
+   Median Price: $180.00
+   Std Dev: $148.63
+   Min Price: $60.00
+   Max Price: $1000.00
+
+Best Model Performance:
+   Model Name: Random Forest
+   RMSE: $109.28
+   MAE: $68.06
+   R²: 0.5515
+   MAPE: 27.00%
+
+Business Impact:
+   Current Avg Price: $245.35
+   Predicted Avg Price: $242.71
+   Price Change: $-2.64 (-1.08%)
+   Portfolio Size: 129
+   Assumed Occupancy: 70%
+   Current Annual Revenue: $8,086,575.00
+   Optimized Annual Revenue: $7,999,506.19
+   Revenue Increase: $-87,068.81 (-1.08%)
+   Underpriced Properties: 54 (41.9%)
+   Overpriced Properties: 34 (26.4%)
+
